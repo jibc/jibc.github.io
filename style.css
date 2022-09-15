@@ -90,8 +90,8 @@ footer {
   background-color: rgb(219, 187, 119);
   height: 80px;
   display: flex;
-  justify-content: flex-end;
-  align-items: center;
+  justify-content: center;
+  align-items: flex-end;
 }
 
 footer p:last-child {
