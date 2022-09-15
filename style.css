@@ -80,6 +80,7 @@ main section {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding: 24px;
 }
 
 main h2 {
@@ -90,8 +91,8 @@ footer {
   background-color: rgb(219, 187, 119);
   height: 80px;
   display: flex;
-  justify-content: center;
-  align-items: flex-end;
+  justify-content: flex-end;
+  align-items: center;
 }
 
 footer p:last-child {
